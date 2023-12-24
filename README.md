@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Hao @maihao14, a Ph.D. candidate in Earth Science in University of Ottawa, Canada🇨🇦.
-- 👀 I’m interested in developing deep learning python packages for earth science projects.
-- 🌱 I’m currently interested in collaborating new seismic benchmark datasets, seismic signal detection, location approaches.
-- 💞️ I’m looking for AI related jobs（expected graduate in 2023 summer/fall).
-- 📫 How to reach me: hmai090@uottawa.ca
+- 🎓 **Ph.D. in Earth Science**: Recently graduated from the University of Ottawa, Canada 🇨🇦.
+- 💼 **Data Scientist at Larus**: Applying my geoscience background to the field of data science.
+- 🧑‍💻 **Deep Learning Enthusiast**: Passionate about developing Python packages for deep learning. Check out my work [here](https://github.com/maihao14).
+- 📚 **Educator**: Experienced in teaching math, economics, statistics, and machine learning courses.
+- 🚀 **Goal-Oriented**: Committed to creating innovative machine learning models and delivering high-quality Python code reviews for industrial projects.
+- 👥 **Open to Collaborations**: Always eager to connect with like-minded professionals and enthusiasts in the fields of data science and geoscience.
 
 <!---
 maihao14/maihao14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
